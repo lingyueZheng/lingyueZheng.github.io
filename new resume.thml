@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="UTF-8"/>
+  <title>Lingyue Zheng</title>
+ </head>
+<body>
+    <header>
+       <h1>LINGYUE ZHENG</h1>
+    </header>
+      
+    <address>
+      <p>#543 Pearson Residential College</p>
+      <p>5185 Ponce De Leon Blvd, Coral Gables, FL33146</p>
+      <p>lxz126@miami.edu</p>
+      <p>305.342.2793</p>
+      <p><a href="www.linkedin.com/in/lingyuezheng">Linkelin</a></p>
+      <p><a href="https://twitter.com/lxz126">Twitter</a></p>
+    </address>
+
+
+  <nav>
+    <ul>
+      <li><a href="#education">Education</a></li>
+      <li><a href="#expereince">Experience</a></li>
+      <li><a href="#activities">Activities &amp; Honors</a></li>
+      <li><a href="#skills">Skills</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section id="education">
+      <h2>EDUCATION</h2>
+      <h3>University of Miami, Coral Gables,FL</h3>
+      <p>Bachelor of Communications in Journalism</p>
+      <p>Bachelor of Arts in Psychology</p>
+      <p>May 2018</p>
+      <p>GPA 3.5/4</p>
+    </section>
+
+    <section id="experience"> 
+      <h2>EXPERIENCE</h2>
+        <p><abbr title="Council of International Students and Organizations">COISO</abbr>, University of Miami, Coral Gables, FL.2014 – present</p>
+          <p>Co-Chair, Public Relation Committee on Cabinet</p>
+          <ol>
+             <li>Promote community service involvement and activities' participation by designing flyers,brochures and handouts</li>
+             <li>Fundraise and cooperatate with other student organizations on campus</li>
+             <li>Serve as site leader and recruit students to participate in the 2014 National Gandhi Day of Service</li>
+           </ol>
+      </section>
+
+
+    <Section id="activities"> 
+      <h2>HONORS &amp; ACTIVITIES</h2>
+      <ul>
+        <li>University of Miami,President’s Honor Roll</li>
+        <li>University of Miami,2015 CGI U participant with the initiative <a href="http://www.facebook.com/Cosmopoliteen">CosmopoliTeen</a></li>
+        <li>University of Miami, UGenerations</li>
+        <li>University of Miami, IMPACT 2014 participant</li>
+
+
+      </ul>
+    </section>
+
+
+    <section id="skills">
+      <h2>SKILLS</h2>
+      <ul>
+        <li>Proficient in Microsoft Word, PowerPoint and Excel</li>
+        <li>Proficient in Photoshop, illustrator and InDesign</li>
+        <li>Fluent in Mandarin, speaking and writing</li>
+      </ul>
+      </section>
+</main>
+  </body>
+  </html>
+
+
