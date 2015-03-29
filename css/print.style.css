@@ -1,0 +1,66 @@
+*{
+color: black;
+background:transparent;
+font-size:12pt;
+fony-family:"Times New Roman", serif;
+}
+
+@page{margin:0.5in;}
+
+nav {
+  display:none;
+  }
+
+#container{
+width:100%;
+margin-right:0 auto;
+margin-left:12pt;
+    }
+
+h1{
+    font-size:20pt;
+   text-align:center;
+    }
+
+address{
+  font-size:8pt;
+  text-align:center;
+  line-height:0.5pt;
+}
+
+
+img{
+  display:none;
+}
+
+a {
+    text-decoration:none;
+    }
+
+.position{
+    font-weight:bold;
+    margin:0;
+      }
+
+#education p{
+  margin:0;
+}
+
+#skills{
+  display:none;
+}
+
+#skillsprint{
+  margin:0;
+}
+
+
+a:link:after { content: " (" attr(href) ") ";
+       font-size:smaller;
+       text-decoration:none;}
+
+#printMsg {
+  font-size:10pt;
+  margin-left:24pt;
+  display: block;
+  line-height:10pt;}
