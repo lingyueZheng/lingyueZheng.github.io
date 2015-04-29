@@ -1,0 +1,67 @@
+*{
+color:black;
+background:transparent;
+font-size:12pt;
+font-family:"Times New Roman", serif;
+}
+
+@page{margin:0.5in;}
+
+header{
+  text-align:center;
+}
+
+
+h1{
+ font-size: 14pt;
+}
+
+#contact{
+  text-align:center;
+  light-height:0.5;
+}
+
+#navcontainer{
+    display:none;
+}
+
+ul.social{
+   list-style:none;
+   padding-left:0;
+    }
+
+ul.social a{
+  text-decoration:none;
+}
+
+h2{
+  display:none;
+}
+
+.timelinesub:nth-last-child(-n+2){
+   display:none;
+}
+
+
+a:link:after { content: " (" attr(href) ") ";
+       font-size:smaller;
+       text-decoration:none;
+}
+
+
+.date{
+  font-size:12pt;
+  float:right;
+}
+
+.info{
+  line-height:2;
+  padding-bottom:6pt;
+  font-weight:bold;
+  text-align:left;
+  margin-right:48pt;
+}
+
+footer{
+  display:none;
+}
